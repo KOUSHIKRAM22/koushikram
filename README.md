@@ -49,10 +49,9 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
 ---
 
 ### 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+</a>
   <a href="mailto:ram404844@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
