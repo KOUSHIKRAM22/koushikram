@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 <p align="left">
-Computer Science and Engineering graduate with hands-on experience in Java, Python, and JavaScript. Built an OCR-based healthcare system for prescription safety and developed scalable web applications using modern technologies. I value continuous improvement and believe growth comes from learning, adapting, and refining skills over time to build reliable and practical software solutions.
+Software Developer with experience in Java, Python, and JavaScript, focused on building scalable web applications and backend systems. Worked on an OCR-based healthcare system and an educational web platform, and continuously improving skills through hands-on projects and learning. I value continuous improvement and believe growth comes from learning, adapting, and refining skills over time to build reliable and practical software solutions.
 </p>
 
 ---
@@ -27,8 +27,6 @@ Computer Science and Engineering graduate with hands-on experience in Java, Pyth
 #### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/>
 </p>
 
 #### ⚙️ Tools
@@ -42,7 +40,7 @@ Computer Science and Engineering graduate with hands-on experience in Java, Pyth
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dark Mode)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KOUSHIKRAM22&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KOUSHIKRAM22&layout=compact&theme=dracula" height="150"/>
@@ -53,13 +51,13 @@ Computer Science and Engineering graduate with hands-on experience in Java, Pyth
 ### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ram404844@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark mode)" />
