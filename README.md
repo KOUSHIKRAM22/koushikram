@@ -24,7 +24,7 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
 </p>
 
-#### 🗄️ Databases
+#### 🗄️ Database
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 </p>
