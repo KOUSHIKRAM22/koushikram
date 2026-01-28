@@ -40,7 +40,7 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KOUSHIKRAM22&show_icons=true&theme=dracula" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KOUSHIKRAM22&layout=compact&theme=dracula" height="150"/>
