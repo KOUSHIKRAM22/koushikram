@@ -54,4 +54,15 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation (dark mode)" />
+<!-- Dark mode snake -->
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
+  alt="Contribution snake animation"
+/>
+
+<!-- Light mode snake -->
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only"
+  alt="Contribution snake animation"
+/>
+
