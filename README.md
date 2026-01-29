@@ -46,7 +46,7 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 <a href="mailto:ram404844@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat"/>
+  <img src="https://img.shields.io/badge/Gmail-red"/>
 </a>
 
 
