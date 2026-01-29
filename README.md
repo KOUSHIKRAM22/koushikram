@@ -40,14 +40,6 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KOUSHIKRAM22&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KOUSHIKRAM22&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
-
 ### 🔗 Connect With Me
 <a href="https://www.linkedin.com/in/koushik-ram-addagarla/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue"/>
