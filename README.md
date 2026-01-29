@@ -5,8 +5,6 @@
 Software Developer with experience in Java, Python, and JavaScript, focused on building scalable web applications and backend systems. Worked on an OCR-based healthcare system and an educational web platform, and continuously improving skills through hands-on projects and learning. I value continuous improvement and believe growth comes from learning, adapting, and refining skills over time to build reliable and practical software solutions.
 </p>
 
----
-
 ### 🛠️ Tech Stack
 
 #### 💻 Languages & Web Technologies
@@ -35,8 +33,6 @@ Software Developer with experience in Java, Python, and JavaScript, focused on b
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
 </p>
-
----
 
 ### 🔗 Connect With Me
 <p align="left">
